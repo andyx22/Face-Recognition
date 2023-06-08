@@ -1,2 +1,2 @@
-# Face-Recognition-From-Webcam
-Recognize faces with face_recognition and OpenCV 
+# Face-Recognition
+Recognize faces with face_recognition and OpenCV from webcam
